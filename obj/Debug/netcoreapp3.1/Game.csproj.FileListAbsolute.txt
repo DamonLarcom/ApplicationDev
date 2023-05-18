@@ -1,0 +1,26 @@
+C:\Users\RMaple\OneDrive - Neumont College of Computer Science\Dev\CSC160\CSC160-SB\Game\bin\Debug\netcoreapp3.1\Game.exe
+C:\Users\RMaple\OneDrive - Neumont College of Computer Science\Dev\CSC160\CSC160-SB\Game\bin\Debug\netcoreapp3.1\Game.deps.json
+C:\Users\RMaple\OneDrive - Neumont College of Computer Science\Dev\CSC160\CSC160-SB\Game\bin\Debug\netcoreapp3.1\Game.runtimeconfig.json
+C:\Users\RMaple\OneDrive - Neumont College of Computer Science\Dev\CSC160\CSC160-SB\Game\bin\Debug\netcoreapp3.1\Game.runtimeconfig.dev.json
+C:\Users\RMaple\OneDrive - Neumont College of Computer Science\Dev\CSC160\CSC160-SB\Game\bin\Debug\netcoreapp3.1\Game.dll
+C:\Users\RMaple\OneDrive - Neumont College of Computer Science\Dev\CSC160\CSC160-SB\Game\bin\Debug\netcoreapp3.1\Game.pdb
+C:\Users\RMaple\OneDrive - Neumont College of Computer Science\Dev\CSC160\CSC160-SB\Game\obj\Debug\netcoreapp3.1\Game.csprojAssemblyReference.cache
+C:\Users\RMaple\OneDrive - Neumont College of Computer Science\Dev\CSC160\CSC160-SB\Game\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\RMaple\OneDrive - Neumont College of Computer Science\Dev\CSC160\CSC160-SB\Game\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\RMaple\OneDrive - Neumont College of Computer Science\Dev\CSC160\CSC160-SB\Game\obj\Debug\netcoreapp3.1\Game_MarkupCompile.cache
+C:\Users\RMaple\OneDrive - Neumont College of Computer Science\Dev\CSC160\CSC160-SB\Game\obj\Debug\netcoreapp3.1\Game_MarkupCompile.lref
+C:\Users\RMaple\OneDrive - Neumont College of Computer Science\Dev\CSC160\CSC160-SB\Game\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\RMaple\OneDrive - Neumont College of Computer Science\Dev\CSC160\CSC160-SB\Game\obj\Debug\netcoreapp3.1\Game.g.resources
+C:\Users\RMaple\OneDrive - Neumont College of Computer Science\Dev\CSC160\CSC160-SB\Game\obj\Debug\netcoreapp3.1\Game.AssemblyInfoInputs.cache
+C:\Users\RMaple\OneDrive - Neumont College of Computer Science\Dev\CSC160\CSC160-SB\Game\obj\Debug\netcoreapp3.1\Game.AssemblyInfo.cs
+C:\Users\RMaple\OneDrive - Neumont College of Computer Science\Dev\CSC160\CSC160-SB\Game\obj\Debug\netcoreapp3.1\Game.csproj.CoreCompileInputs.cache
+C:\Users\RMaple\OneDrive - Neumont College of Computer Science\Dev\CSC160\CSC160-SB\Game\obj\Debug\netcoreapp3.1\Game.dll
+C:\Users\RMaple\OneDrive - Neumont College of Computer Science\Dev\CSC160\CSC160-SB\Game\obj\Debug\netcoreapp3.1\Game.pdb
+C:\Users\RMaple\OneDrive - Neumont College of Computer Science\Dev\CSC160\CSC160-SB\Game\obj\Debug\netcoreapp3.1\Game.genruntimeconfig.cache
+C:\Users\Damon Larcom\source\repos\Game\obj\Debug\netcoreapp3.1\Game.csprojAssemblyReference.cache
+C:\Users\Damon Larcom\source\repos\Game\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Damon Larcom\source\repos\Game\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Damon Larcom\source\repos\Game\obj\Debug\netcoreapp3.1\Game_MarkupCompile.cache
+C:\Users\Damon Larcom\source\repos\Game\obj\Debug\netcoreapp3.1\Game_MarkupCompile.lref
+C:\Users\Damon Larcom\source\repos\Game\obj\Debug\netcoreapp3.1\Game.dll
+C:\Users\Damon Larcom\source\repos\Game\obj\Debug\netcoreapp3.1\Game.pdb

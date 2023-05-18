@@ -1,0 +1,21 @@
+﻿<Window x:Class="Game.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Game"
+        mc:Ignorable="d"
+        Loaded="Window_Loaded"
+        Title="MainWindow" Height="450" Width="400">
+    <Canvas x:Name="cnvGame" 
+            Background="CornflowerBlue">
+        <!--<Rectangle Width="20" Height="20" 
+                   Fill="Black"
+                   Canvas.Left="40"
+                   Canvas.Top="40"/>
+        <Ellipse Width="20" Height="20"
+                 Fill="White"/>
+        <Line X1="40" Y1="60" X2="20" Y2="120"
+              Stroke="Orange" StrokeThickness="10"/>-->
+    </Canvas>
+</Window>
